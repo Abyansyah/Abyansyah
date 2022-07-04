@@ -19,7 +19,7 @@ I'm a `student at Telkom Malang Vocational High School`
                                                                                                                                          
 
 ## Contact me 📫:
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmadaby66/)](https:https://www.instagram.com/ahmadaby66/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmadaby66/)](https://www.instagram.com/ahmadaby66/)
 
 
 <h5 align="center">Made With ❤️ by Me</h5>
