@@ -5,7 +5,6 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://web-portfolio-rbnciooof-ahmadabyan.vercel.app/)
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -27,8 +26,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React Js](https://img.shields.io/badge/Reactjs%20-%23F7DF1E.svg?style=for-the-badge&logo=reactjs&logoColor=black)
-   ![Node Js](https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+   ![React Js](https://img.shields.io/badge/ReactJs%20-%23F7DF1E.svg?style=for-the-badge&logo=reactjs&logoColor=black)
+   ![Next Js](https://img.shields.io/badge/NextJs%20-%23F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=black)
 
 <br>
 
@@ -102,10 +101,6 @@
 
 <div align='center'>
 </div>
-
----
-
-<br>
 
 Credit: [Ahmad Abyansyah](https://github.com/Abyansyah)
 
