@@ -4,6 +4,8 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
+
+ ![Snake animation](https://github.com/Abyansyah/Abyansyah/blob/output/github-contribution-grid-snake.svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -57,7 +59,7 @@
 <div align='center'>
 </div>
 
- ![Snake animation](https://github.com/Abyansyah/Abyansyah/blob/output/github-contribution-grid-snake.svg)
+
 
 Credit: [Ahmad Abyansyah](https://github.com/Abyansyah)
 
