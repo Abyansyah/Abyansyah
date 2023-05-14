@@ -6,6 +6,8 @@
 - Currently learning Web Development by Self
 <br>
 
+![snake gif](https://github.com/Abyansyah/Abyansyah/blob/output/github-contribution-grid-snake.gif)
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
